@@ -1,0 +1,4 @@
+FLASK_APP=calendarit.py
+ENV=development
+FLASK_DEBUG=1
+FLASK_RUN_PORT=12345
